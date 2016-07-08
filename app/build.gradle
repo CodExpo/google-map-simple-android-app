@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "22.0.0"
+
+    defaultConfig {
+        applicationId "com.example.root.offmap"
+        minSdkVersion 17
+        targetSdkVersion 17
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(':slf4j-android-1.5.8')
+    compile project(':osmbonuspack_v5.3')
+    compile project(':osmdroid-android-4.3')
+    compile project(':gson-2.2.4')
+    compile project(':gson-2.2.4-javadoc')
+    compile project(':gson-2.2.4-sources')
+}

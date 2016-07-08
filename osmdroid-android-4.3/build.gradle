@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('osmdroid-android-4.3.jar'))

@@ -1,0 +1,1 @@
+include ':app', ':osmdroid-android-3.0.8', ':slf4j-android-1.5.8', ':osmbonuspack_v5.3', ':gson-2.2.4', ':commons-lang3-3.3.2', ':osmdroid-android-4.3', ':gson-2.2.4-sources', ':gson-2.2.4-javadoc'

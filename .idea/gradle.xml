@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.4" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/commons-lang3-3.3.2" />
+            <option value="$PROJECT_DIR$/gson-2.2.4" />
+            <option value="$PROJECT_DIR$/gson-2.2.4-javadoc" />
+            <option value="$PROJECT_DIR$/gson-2.2.4-sources" />
+            <option value="$PROJECT_DIR$/osmbonuspack_v5.3" />
+            <option value="$PROJECT_DIR$/osmdroid-android-3.0.8" />
+            <option value="$PROJECT_DIR$/osmdroid-android-4.3" />
+            <option value="$PROJECT_DIR$/slf4j-android-1.5.8" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

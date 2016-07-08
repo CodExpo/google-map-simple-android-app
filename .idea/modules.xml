@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons-lang3-3.3.2/commons-lang3-3.3.2.iml" filepath="$PROJECT_DIR$/commons-lang3-3.3.2/commons-lang3-3.3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gson-2.2.4/gson-2.2.4.iml" filepath="$PROJECT_DIR$/gson-2.2.4/gson-2.2.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gson-2.2.4/gson-2.2.4.iml" filepath="$PROJECT_DIR$/gson-2.2.4/gson-2.2.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gson-2.2.4-javadoc/gson-2.2.4-javadoc.iml" filepath="$PROJECT_DIR$/gson-2.2.4-javadoc/gson-2.2.4-javadoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gson-2.2.4-sources/gson-2.2.4-sources.iml" filepath="$PROJECT_DIR$/gson-2.2.4-sources/gson-2.2.4-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offmap.iml" filepath="$PROJECT_DIR$/offmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmbonuspack_v5.3/osmbonuspack_v5.3.iml" filepath="$PROJECT_DIR$/osmbonuspack_v5.3/osmbonuspack_v5.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmdroid-android-3.0.8/osmdroid-android-3.0.8.iml" filepath="$PROJECT_DIR$/osmdroid-android-3.0.8/osmdroid-android-3.0.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmdroid-android-4.3/osmdroid-android-4.3.iml" filepath="$PROJECT_DIR$/osmdroid-android-4.3/osmdroid-android-4.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmdroid-android-4.3/osmdroid-android-4.3.iml" filepath="$PROJECT_DIR$/osmdroid-android-4.3/osmdroid-android-4.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slf4j-android-1.5.8/slf4j-android-1.5.8.iml" filepath="$PROJECT_DIR$/slf4j-android-1.5.8/slf4j-android-1.5.8.iml" />
+    </modules>
+  </component>
+</project>
